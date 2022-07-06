@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.c860bba0.css",
+    "main.js": "/react/static/js/main.e224d00c.js",
+    "static/media/FreeCodeCamp_logo.svg.png": "/react/static/media/FreeCodeCamp_logo.svg.cc98822c11b81a38c7fa.png",
+    "index.html": "/react/index.html",
+    "main.c860bba0.css.map": "/react/static/css/main.c860bba0.css.map",
+    "main.e224d00c.js.map": "/react/static/js/main.e224d00c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c860bba0.css",
+    "static/js/main.e224d00c.js"
+  ]
+}
